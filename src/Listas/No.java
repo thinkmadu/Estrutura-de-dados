@@ -17,8 +17,7 @@ public class No {
     public void setPosicao(int posicao) {
         this.posicao = posicao;
     }
-
-
+    
     public int getInformacao() {
         return informacao;
     }
