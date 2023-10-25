@@ -1,3 +1,7 @@
+package Listas;
+
+import Listas.No;
+
 public class ListaSimplesmenteEncadeada {
 	protected No cabeca;
 	protected No cauda;

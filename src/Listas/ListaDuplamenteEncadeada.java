@@ -1,3 +1,5 @@
+package Listas;
+
 public class ListaDuplamenteEncadeada {
     protected No cabeca;
     protected No cauda;
